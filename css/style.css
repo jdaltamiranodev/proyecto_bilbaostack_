@@ -1,0 +1,58 @@
+:root {
+    --primario: #0000FF;
+    --secundario: #ABDB2A;
+    --colorFondo: #121212;
+
+    --fuentePrincipal: .pacifico-regular {
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+/* body {
+   
+} */
+/*  background-color: var(--colorFondo); */
+.header {
+    margin-bottom: 0;
+}
+
+.header__titulo {
+    color: var(--secundario);
+    text-align: center;
+    font-size: 3.8rem;
+    font-family: var(--fuentePrincipal);
+    font-weight: bold;
+}
+
+.contenedor__video {
+    margin-top: 0;
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+    /* height: 100%; */
+}
+
+.video {
+    width: 80%;
+    height: 80%;
+
+
+}
+
+@media (min-width: 768px) {
+    .contenedor__video {
+        display: flex;
+        justify-content: center;
+    }
+}
