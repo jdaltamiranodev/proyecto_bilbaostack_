@@ -19,16 +19,12 @@ html {
 box-sizing: inherit;
 }
 
-/* body {
-   
-} */
-/*  background-color: var(--colorFondo); */
 .header {
     margin-bottom: 0;
 }
 
 .header__titulo {
-    color: var(--secundario);
+    color: var(--primario);
     text-align: center;
     font-size: 3.8rem;
     font-family: var(--fuentePrincipal);
@@ -46,6 +42,8 @@ box-sizing: inherit;
 .video {
     width: 80%;
     height: 80%;
+    border: .1rem solid var(--primario);
+    background-color: var(--primario);
 
 
 }
