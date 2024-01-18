@@ -20,13 +20,13 @@ box-sizing: inherit;
 }
 
 .header {
-    margin-bottom: 0;
+    
 }
 
 .header__titulo {
     color: var(--primario);
     text-align: center;
-    font-size: 3.8px;
+    font-size: 3.8rem;
     font-family: var(--fuentePrincipal);
     font-weight: bold;
 }
