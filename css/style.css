@@ -51,17 +51,11 @@ body {
         display: none;
     }
 
-    .boton-de-play {
-        width: 10rem;
-        align-self: center;
-        margin-top: 40%;
-        pointer-events: none;
-    }
-
     .video-responsive {
         position: relative;
         padding-bottom: 56.25%; 
         padding-top: 1.875rem; 
+        /* width: 95vh; */
         height: 0;
         overflow: hidden;
     }
