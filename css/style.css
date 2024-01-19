@@ -51,6 +51,11 @@ body {
         display: none;
     }
 
+    body {
+        background-color: var(--primario);
+        background-image: url(img/boton-de-play.png);
+    }
+
     .boton-de-play {
         width: 10rem;
         align-self: center;
@@ -58,9 +63,11 @@ body {
         pointer-events: none;
     }
 
-    video{
+    /* video{
         height: 100%;
-    }
+        z-index: 100;
+        position: relative;
+    } */
     .video-responsive {
         display: flex;
         justify-content: center;
