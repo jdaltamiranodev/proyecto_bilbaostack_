@@ -50,7 +50,20 @@ body {
     .animacion {
         display: none;
     }
+
+    .boton-de-play {
+        width: 10rem;
+        align-self: center;
+        margin-top: 40%;
+    }
+
+    video{
+        height: 100%;
+    }
     .video-responsive {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         position: relative;
         padding-bottom: 56.25%; 
         padding-top: 1.875rem; 
