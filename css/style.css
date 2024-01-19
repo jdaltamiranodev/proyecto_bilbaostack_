@@ -55,6 +55,7 @@ body {
         width: 10rem;
         align-self: center;
         margin-top: 40%;
+        pointer-events: none;
     }
 
     video{
