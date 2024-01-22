@@ -1,4 +1,4 @@
-# Proyecto Bilbao (pistas)
+# Proyecto Bilbostack (pistas)
 
 ## Puede ver la página de Pista 3 desplegada en Netlify [Pista 3](https://pista-3.netlify.app/)
 
