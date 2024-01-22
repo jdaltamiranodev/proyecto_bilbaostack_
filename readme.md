@@ -49,7 +49,7 @@ https://github.com/jdaltamiranodev/proyecto_bilbaostack_.git
 2. Abra una terminal, selecione la carpeta donde desea clonar el proyecto, después use el comando git clone y pegue la URL al final dejando un espacio.
 3. Finalmente pulse enter. (Tenga en cuenta que debe tener instalado git)
 
-![Imagen git clone](captura-git-clone-pista-3.png) 
+![Imagen git clone](img/captura-git-clone-pista-3.png) 
 
 ```
 $ git clone https://github.com/jdaltamiranodev/proyecto_bilbaostack_.git
