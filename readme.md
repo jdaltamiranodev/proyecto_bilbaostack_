@@ -1,9 +1,9 @@
 # Proyecto Bilbao (pistas)
 
-## Puede ver la página de Pista 3 desplegada en Netlify [PPista 3](https://pista-3.netlify.app/)
+## Puede ver la página de Pista 3 desplegada en Netlify [Pista 3](https://pista-3.netlify.app/)
 
 ![Imagen git clone](img/iPhone-X-pista-3.jpg) 
-![Imagen git clone](img/iPhone-X-pista-3-girar..jpg) 
+![Imagen git clone](img/iPhone-X-pista-3-girar.jpg) 
 
 ## Tabla de contenido
 
