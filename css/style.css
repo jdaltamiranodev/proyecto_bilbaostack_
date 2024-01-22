@@ -45,7 +45,7 @@ video {
         position: absolute;
         display: inline-block;
         top: 15rem;
-        left: 25%;
+        left: 37%;
         animation: caidaBackInDownAndRotacion 6s; /* Ajustamos la duración total */
     }
     

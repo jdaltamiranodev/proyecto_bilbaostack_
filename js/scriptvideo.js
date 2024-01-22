@@ -14,8 +14,8 @@ for (let i = 0; i < col; i++) {
 }
 
 const draw = () => {
-    /* ctx.fillStyle = "rgba(0,0,0,0.05)"; */
-    ctx.fillStyle = "rgba(0, 0, 0, 0)"; // Ajusta el último valor para cambiar la opacidad
+    ctx.fillStyle = "rgba(0,0,0,0.05)";
+    /* ctx.fillStyle = "rgba(0, 0, 0, 0)"; */ // Ajusta el último valor para cambiar la opacidad
     ctx.fillRect(0, 0, width, height);
     ctx.fillStyle = "#0000FF";
     ctx.font = "${font}px system-iu";
